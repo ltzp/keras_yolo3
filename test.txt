@@ -1,0 +1,6 @@
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0c0423bc37cf04a30a7e91c3d108d256.jpg 73,94,1088,747,0
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0dcd200473086d111b5037cd6f8c10b9.jpg 165,102,1089,770,0
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1529a9e143c74425a4705edfb97f9752.jpg 98,120,1117,757,0
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/341fd1c8457a8075884ec38c86a6379e.jpg 281,112,1012,739,0
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/586e55d034300d8f31d230af553a71e5.jpg 242,37,939,783,0
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/9da6f0a6f56b4b553ed0d92cdcd5025e.jpg 33,199,1199,730,0

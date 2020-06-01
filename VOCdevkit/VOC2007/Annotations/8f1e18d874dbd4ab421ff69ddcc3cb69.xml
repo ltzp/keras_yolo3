@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>8f1e18d874dbd4ab421ff69ddcc3cb69.jpg</filename>
+	<path>F:\MachineLearning\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\8f1e18d874dbd4ab421ff69ddcc3cb69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1252</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>98</ymin>
+			<xmax>1061</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>

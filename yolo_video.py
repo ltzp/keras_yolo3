@@ -1,8 +1,20 @@
 import sys
+import os
 import argparse
 from yolo import YOLO, detect_video
 from PIL import Image
 
+import glob
+
+def detect_img(yolo):
+    path = "F:\MachineLearning\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\*.jpg"
+    outdir = "F:\MachineLearning\keras-yolo3\VOCdevkit\VOC2007\SegmentationClass"
+    for jpgfile in glob.glob(path):
+        img = Image.open(jpgfile)
+        img = yolo.detect_image(img)
+        img.save(os.path.join(outdir, os.path.basename(jpgfile)))
+    yolo.close_session()
+'''
 def detect_img(yolo):
     while True:
         img = input('Input image filename:')
@@ -15,7 +27,7 @@ def detect_img(yolo):
             r_image = yolo.detect_image(image)
             r_image.show()
     yolo.close_session()
-
+'''
 FLAGS = None
 
 if __name__ == '__main__':

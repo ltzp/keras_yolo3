@@ -1,0 +1,1 @@
+F:\MachineLearning\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1fa215add7a78015682d78ea9c3db21b.jpg 231,86,1025,746,0
